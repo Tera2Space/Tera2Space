@@ -2,7 +2,7 @@
 
 # LINKS:
 
-  **1) [HuggigFace](https://huggingface.co/TeraSpace)**
+  **1) [Hugging Face](https://huggingface.co/TeraSpace)**
   
   **2) [Telegram Chat](https://t.me/teraspace_chat)**
   
